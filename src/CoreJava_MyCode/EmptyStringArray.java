@@ -1,3 +1,5 @@
+package CoreJava_MyCode;
+
 public class EmptyStringArray {
     public static void main(String[] args) {
 
