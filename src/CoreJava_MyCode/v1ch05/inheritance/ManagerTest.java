@@ -1,6 +1,5 @@
 package CoreJava_MyCode.v1ch05.inheritance;
 
-
 public class ManagerTest
 {
     public static void main(String[] args) {
