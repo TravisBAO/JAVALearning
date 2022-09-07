@@ -1,5 +1,7 @@
 package CoreJava_MyCode.v1ch05.inheritance;
 
+import CoreJava_MyCode.v1ch05.inheritance.Employee;
+
 public class Manager extends Employee
 {
     private double bonus;

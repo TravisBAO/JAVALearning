@@ -1,5 +1,8 @@
 package CoreJava_MyCode.v1ch05.inheritance;
 
+import CoreJava_MyCode.v1ch05.inheritance.Employee;
+import CoreJava_MyCode.v1ch05.inheritance.Manager;
+
 public class ManagerTest
 {
     public static void main(String[] args) {
