@@ -21,12 +21,6 @@ public class HW {
 
 //        System.out.println("Hello baoyi");
         System.out.print("hello baoyi again！");
-
-        jjjForPrint sfsf = new jjjForPrint();
-        sfsf.ppp();
-
     }
-
-
 }
 
